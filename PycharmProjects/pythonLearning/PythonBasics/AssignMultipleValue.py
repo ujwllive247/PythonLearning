@@ -1,3 +1,8 @@
+
+
+
+
+
 #One value to multiple
 x=y=z = "jackfruit"
 print(x)

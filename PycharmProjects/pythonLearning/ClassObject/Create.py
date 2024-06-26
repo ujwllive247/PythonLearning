@@ -11,7 +11,7 @@ class person:
     x = 5
     name = "Ujjwal"
     age = 29
-    Address = "Bhauwara Machhatta chowk ward no 26, Madhubani Bihar"
+    Address = "New Town , kolcutta "
 p1 = person()
 p2 = person()
 print(p2.Address)
