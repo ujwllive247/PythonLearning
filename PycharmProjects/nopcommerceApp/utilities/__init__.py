@@ -1,2 +1,0 @@
-class XLUtils:
-    pass
