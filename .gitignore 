@@ -10,7 +10,7 @@ venv/
 
 # IDE settings
 .idea/
-.vscode/
+
 
 # OS-specific files
 .DS_Store
@@ -19,23 +19,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Test and coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-.pytest_cache/
-
-# Build and distribution files
-build/
-dist/
-*.egg-info/
-.eggs/
 
 # Temporary files
 *.tmp
