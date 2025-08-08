@@ -1,0 +1,32 @@
+# PythonLearning
+
+This repository contains Python practice programs, examples, and exercises created for learning and improving Python programming skills.
+Each folder focuses on a specific Python concept with hands-on examples.
+
+## 📂 Project Structure
+
+- **ClassObject** – Examples demonstrating classes, objects, and object-oriented concepts.
+- **Collections** – Working with lists, tuples, sets, and dictionaries.
+- **ForLoop** – Iteration examples using `for` loops.
+- **IF_Else** – Conditional statements and branching logic.
+- **Inheritance** – Single, multiple, and multilevel inheritance examples.
+- **Modules** – Using built-in and custom Python modules.
+- **OOPsConcept** – Object-Oriented Programming concepts like encapsulation, polymorphism, and abstraction.
+- **PythonBasics** – Fundamental Python syntax, variables, and operators.
+- **PythonDate&time** – Date and time manipulation using the `datetime` module.
+- **PythonFunctions** – Creating and using functions.
+- **PythonLambda** – Lambda expressions and anonymous functions.
+- **PythonMath** – Using mathematical functions and the `math` module.
+- **PythonStrings** – String operations and formatting.
+- **QuestionPractice** – General Python coding practice questions.
+- **Questions** – Common interview-style Python questions.
+- **RangeFunction** – Usage of `range()` in loops and iterations.
+- **Try_Except** – Exception handling and error management.
+- **UserInput** – Taking input from users and processing it.
+- **WhileLoop** – Iteration examples using `while` loops.
+
+## 🛠 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/PythonLearning.git
